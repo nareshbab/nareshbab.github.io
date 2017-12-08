@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Naresh@Analytics
 paginate:       5
-baseurl:        "/"
+baseurl:        ""
 url:            "https://nareshbab.github.io"
 
 # Assets
