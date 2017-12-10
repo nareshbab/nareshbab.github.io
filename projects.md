@@ -1,42 +1,137 @@
 ---
 layout: post
-title: "Projects"
+title: "Work Experience"
 author: "Naresh Kumar"
 permalink: /projects/
 ---
 
 
 <div role="tabpanel" class="catalogue" id="Projects">
-	<h3>
-		<b>Real Time in-store traffic analysis using Brickstream</b>
-	</h3>
-	<h4 style="color: #bdcd49">
-		<b>Data Scientist, Mu-Sigma</b>
-	</h4>
-	<p>
-		Client was the world's biggest home improvement retail company. They were on a pilot with Brickstream, which is a Video analytics software which uses aisle camera footage to virtually create trip lines and dwell zones. Exhaustive reports were created for the data collected by Bricksteam enabled cameras on a weekly level. Trip line analysis allowed client to predict traffic hours in real time and accordingly align their store associates for coming days/weeks, thereby improving resource management. Dwell analysis enabled the client to understand dwell times of customers at specific aisles positions thereby enabling them to take decisions on shelf space management.</p>
 
-	<p><b>Skills used:</b> Brickstream, SQL, R.</p>
-	<h4 style="color: #bdcd49">
-		<b>Nov 2012 – Apr 2013</b>
-	</h4>
+	<h3>
+		<b>Client Enagagement Professional Summary </b>
+	</h3>
+	<ul>
+		<li>Responsible for successful management and implementation of Performance Management Data/Reporting solutions, including all aspects of Project and Program Management</li>
+		<li>Manage internal teams and participate in planning, requirements gathering, design, configuration, testing, deployment and business readiness activities to ensure Project success</li>
+		<li>Timely and effective communication to project teams, Customer, and Innovaccer management on Project status and issues</li>
+		<li>Proactively review and adjust project plans to minimize/eliminate roadblocks and ensure project is delivered on-time and on-budget</li>
+		<li>Managed and facilitated communications on all business requests and issues to ensure client programs were operating with maximum efficiency and profitability</li>
+		<li>Agile Project Management and SDLC knowledge used to communicate both business needs and technical product information</li>
+	</ul>
+
+
+	<hr height="70%">
+	<h3>
+		<b>Technical Professional Summary </b>
+	</h3>
+	<ul>
+		<li>3+ years of relevant experience on Hadoop development, designing and implementing end to end Hadoop Infrastructure using HDFS, HBase, Spark, Oozie</li>
+		<li>Worked with data formats like Avro, Parquet</li>
+		<li>Experience in automating Hadoop Installation, Configuring and testing Hadoop Ecosystem components using Apache Ambari</li>
+		<li>Good Knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and Map Reduce Concepts</li>
+		<li>Experience in working on data ETL pipelines using Spark providing abstraction to MapReduce</li>
+		<li>Experience in analysing data using Apache Spark, building Machine Learning projects using Spark MLLib</li>
+		<li>Collecting and Aggregating large amount of data by building a connector with Kafka-Spark and Flume-Spark</li>
+		<li>Basic understanding and job monitoring on Oozie. Exhaustive understanding of Spark Job-Server as a replacement for Oozie</li>
+		<li>Experience on Hadoop clusters using major Hadoop distributions like Hortonworks (HDP)</li>
+		<li>Experience in using integrated development tools like IntelliJ, Eclipse</li>
+		<li>Migration of data from various data sources to HDFS (ElasticSearch, MongoDB, RDBMS, RedShift)</li>
+		<li>Excellent technical, communication, analytical and problem-solving skills and ability to get on well with people including cross-cultural backgrounds and troubleshooting capabilities</li>
+	</ul>
+
+
 
 	<hr height="70%">
 
 	<h3>
-		<b>Real Time in-store traffic analysis using Brickstream</b>
+		<b>Developing Machine Learning Platform </b>
+	</h3>
+	<h4 style="color: #bdcd49">
+		<b>Data Science developer, InnovAccer</b>
+	</h4>
+	<p>
+		
+	Client: One of the biggest research organization in the world,
+	 <ul>
+	 	<li>To provide a platform for all the machine Learning algorithms to a user with the ability to predict and score their prebuilt models</li>
+	 	<li>Presented the architecture using Django, Apache spark and Scala with additional option to proceed with PLAY framework, Apache spark and Scala</li>
+	 	<li>Currently working on writing machine learning algorithms on clients dataset using Scala and python so that both can be benchmarked for performance</li>
+	 </ul>
+	<p><b>Skills used:</b> Django, Apache spark, Scala, Python.</p>
+	<h4 style="color: #bdcd49">
+		<b>Nov 2014 - Present</b>
+	</h4>
+
+
+	<hr height="70%">
+
+
+	<h3>
+		<b>Recommendation engine for documents</b>
 	</h3>
 	<h4 style="color: #bdcd49">
 		<b>Data Scientist, Mu-Sigma</b>
 	</h4>
 	<p>
-		Client was the world's biggest home improvement retail company. They were on a pilot with Brickstream, which is a Video analytics software which uses aisle camera footage to virtually create trip lines and dwell zones. Exhaustive reports were created for the data collected by Bricksteam enabled cameras on a weekly level. Trip line analysis allowed client to predict traffic hours in real time and accordingly align their store associates for coming days/weeks, thereby improving resource management. Dwell analysis enabled the client to understand dwell times of customers at specific aisles positions thereby enabling them to take decisions on shelf space management.</p>
-
-	<p><b>Skills used:</b> Brickstream, SQL, R.</p>
+		
+	Client: One of the biggest research organization in the world,
+	 <ul>
+	 	<li>To design a recommendation engine so as to provide user a better experience while working on clients tool</li>
+	 	<li>Item-based algorithm was used to provides peer influence recommendations based on item usage similarity</li>
+	 	<li>Techniques used: Tf-IDf, SVD, PCA</li>
+	 </ul>
+	<p><b>Skills used:</b> R, GitHub.</p>
 	<h4 style="color: #bdcd49">
-		<b>Nov 2012 – Apr 2013</b>
+		<b>July 2014 – Nov 2014</b>
 	</h4>
 
 
-</div>
+
+	<hr height="70%">
+
+
+	<h3>
+		<b>Developed R package for the interaction between clients application and Atlassian stash</b>
+	</h3>
+	<h4 style="color: #bdcd49">
+		<b>Data Scientist, Mu-Sigma</b>
+	</h4>
+	<p>
+		
+	Client: One of the biggest research organization in the world,
+	 <ul>
+	 	<li>To enable the users to leverage the capabilities of Git repository management platforms</li>
+	 	<li>Atlassian stash is an enterprise Git repository management tool where users can share their new projects and codes for collaborative development</li>
+	 	<li>Received a SPOT award for crafting highly reusable platform for clients application </li>
+	 </ul>
+	<p><b>Skills used:</b> R, Atlassian Stash, GitHub.</p>
+	<h4 style="color: #bdcd49">
+		<b>Feb 2014 – June 2014</b>
+	</h4>
+
+
+	<hr height="70%">
+
+	<h3>
+		<b>Search Engine Using Apache Solr and R</b>
+	</h3>
+	<h4 style="color: #bdcd49">
+		<b>Data Scientist, Mu-Sigma</b>
+	</h4>
+	<p>
+		
+	Client: One of the biggest research organization in the world,
+	 <ul>
+	 	<li>To provide a platform for collaborative development to all the users of Client’s product</li>
+	 	<li>Search engine provides the ability to share codes among users inside a domain</li>
+	 	<li>Received a SPOT award for creating value for the customer & delivering the application with high note</li>
+	 </ul>
+	<p><b>Skills used:</b> Apache Lucene, Apache Solr, Github, R.</p>
+	<h4 style="color: #bdcd49">
+		<b>Sep 2013 – Jan 2014</b>
+	</h4>
+
+
+<!-- </div> -->
 
